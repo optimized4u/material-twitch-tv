@@ -1,6 +1,8 @@
 # Twitch User Streams
 
-A project created as part of my FreeCodeCamp course.
+A project originally created as part of my FreeCodeCamp course.
+
+I just spent the day re-jiggering it to work with Material Kit from Creative Tim, very pleased with the results.
 
 The app holds an array of users and checks with the Twitch API to find their broadcasting status.
 
@@ -21,3 +23,5 @@ If the user is not found they are added to the results list and marked as 'User 
 [See it working on GitHub Pages](https://optimized4u.github.io/material-twitch-tv/)
 
 [View on CodePen](https://codepen.io/taramouse/pen/wWMJOx)
+
+[Creative Tim](http://www.creative-tim.com)
